@@ -4,7 +4,7 @@ I like creating designs. i love to do new & creative project. I am looking forwa
 
 Skills: c/c++/java/javascript/python/mysql/sqlLite/html/css/css3/bootstrap/jquery/react/tkinter/pygame/django/flask
 
-- 🔭 I’m currently working on my advamce css skills 
+- 🔭 I’m currently working on my advance css skills 
 - 🌱 I’m currently learning react js  
 - 📫 How to reach me: https://www.linkedin.com/in/tahsin-sumiya-45aa651a5/ 
 
