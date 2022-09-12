@@ -2,7 +2,7 @@
 #### i am currently learning frontend development
 I like creating designs. i love to do new & creative project. I am looking forward to learn new techonlogies. 
 
-Skills: c/c++/java/javascript/python/mysql/sqlLite/html/css/css3/bootstrap/jquery/react/tkinter/pygame/django/flask
+Skills: c/c++/java/javascript/python/mysql/sqlLite/html/css/css3/bootstrap/jquery/react/tkinter/pygame/django/flask/sass
 
 - 🔭 I’m currently working on my advance css skills 
 - 🌱 I’m currently learning react js  
