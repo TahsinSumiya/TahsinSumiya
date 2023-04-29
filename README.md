@@ -5,7 +5,7 @@
   
 
 <div align="center">⚡ Fun fact: I love sketcing so i prefer designing</div>  
-   <div align="center">Check my portfolio to view my work</div>
+   <div align="center">Check my below portfolio to view my work</div>
   <div align="center"><a align="center" href="https://tahsinsumiya.github.io/portfolio">portfolio</a></div>
 
 <br/>  
