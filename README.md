@@ -6,7 +6,7 @@
 
 <div align="center">⚡ Fun fact: I love sketcing so i prefer designing</div>  
    <div align="center">Check my portfolio to view my work</div>
-  <a align="center" href="https://tahsinsumiya.github.io/portfolio">portfolio</a>
+  <div align="center"><a align="center" href="https://tahsinsumiya.github.io/portfolio">portfolio</a></div>
 
 <br/>  
 
